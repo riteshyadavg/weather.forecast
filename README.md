@@ -13,7 +13,6 @@ WeatherNow is a user-friendly web app ⚡ that offers real-time weather forecast
 📆 Detailed Forecast: Next few days' outlook.
 🖼️ Background Images: Reflect current conditions.
 
-**LINK**- https://priyanshufox.github.io/weatherForecast.github.io/
 
 **Tech Stack:**
 
